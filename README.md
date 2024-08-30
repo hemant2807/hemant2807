@@ -4,7 +4,7 @@
 </p>
 My name is <b>Hemant Kumar</b> & I'm pursuing my B.Tech in Electronics and Communication Engineering from <a href="https://www.akgec.ac.in/">AKGEC Ghaziabad</a>. My passion for technology drives me to <b>Contribute</b> actively to <b>Open-Source Communities</b> , where I collaborate with fellow enthusiasts to develop transformative and <b>Impactful Projects</b> .
 
-- 📫 How to reach me **hemant.k2807@gmail.com**
+- 📫 How to reach me **hemant2331032@akgec.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
