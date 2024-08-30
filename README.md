@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DC00&background=FF010100&center=true&vCenter=true&width=300&height=45&lines=Artifical+Intelligence;Full+Stack+Developer;Philomath;Thank+You+for+visiting.....">
 </p>
-My name is <b>Hemant Kumar</b> & I'm pursuing my B.Tech in Electronics and Communication Engineering from [AKGEC Ghaziabad](https://www.akgec.ac.in/) . My passion for technology drives me to **Contribute** actively to **Open-Source Communities** , where I collaborate with fellow enthusiasts to develop transformative and **Impactful Projects** .
+My name is <b>Hemant Kumar</b> & I'm pursuing my B.Tech in Electronics and Communication Engineering from <a href="https://www.akgec.ac.in/">AKGEC Ghaziabad</a>. My passion for technology drives me to <b>Contribute</b> actively to <b>Open-Source Communities</b> , where I collaborate with fellow enthusiasts to develop transformative and <b>Impactful Projects</b> .
 
 - 📫 How to reach me **hemant.k2807@gmail.com**
 
